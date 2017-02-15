@@ -1,0 +1,46 @@
+body {
+	color: #2d2d2d;
+	font-size: 16px;
+	text-align: center;
+}
+
+#Container #Rentals p {
+	text-align: left;
+}
+
+h1 {
+	color: #646464;
+	font-style: Karla;
+}
+
+p {
+	color: #2d2d2d;
+	font-style: Pacifico;
+}
+
+header {
+	background-color: black;
+	text-align: right;
+}
+
+footer {
+	background-color: #4F5354;
+	color: #FFFFFF;
+}
+
+button {
+	border: 0;
+	padding: 15px;
+	font-size: 16px;
+	color: white;
+	background-color: #E2574c; 
+	border-radius: 35px;
+	box-shadow: 1px 1px .5px black;
+}
+
+button:hover {
+
+}
+
+/* black header background - white text
+dark grey footer background - white text
